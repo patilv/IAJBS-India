@@ -53,10 +53,6 @@ library(gridExtra)
 * Interactive Visualizations: Open-Source R
 * Conclusion and R-Resources
 
-URL for presentation: [http://patilv.com/IAJBS-India/IAJBSIndia.html](http://patilv.com/IAJBS-India/IAJBSIndia.html)
-
-Code for presentation: [https://github.com/patilv/IAJBS-India](https://github.com/patilv/IAJBS-India)
-
 ## ABCD
 
 **Assets-based Commmunity Development**: Place-based framework pioneered by McKnight and Kretzmann (1993)
@@ -91,7 +87,7 @@ At a macro-level
 7.	Resident leadership team connects residents that live close together with same passions and ask them to come together to share their gifts to accomplish something related to their passion. 
 8.	Grow connections – people, associations and organizations
 
-Source: Duncan: [Asset Mapping toolkit from ABCD Institute, DePaul University](https://resources.depaul.edu/abcd-institute/resources/Documents/D.%20Duncan%20Asset%20Mapping%20Toolkit%20Eight%20Steps%20to%20Increase%20Residential%20Engagement.pdf), Retrieved July 22, 2019.
+Source: Dan Duncan: [Asset Mapping toolkit from ABCD Institute, DePaul University](https://resources.depaul.edu/abcd-institute/resources/Documents/D.%20Duncan%20Asset%20Mapping%20Toolkit%20Eight%20Steps%20to%20Increase%20Residential%20Engagement.pdf), Retrieved July 22, 2019.
 
 ## Gonzaga MAPS Project
 
