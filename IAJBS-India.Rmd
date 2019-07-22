@@ -53,6 +53,9 @@ library(gridExtra)
 * Interactive Visualizations: Open-Source R
 * Conclusion and R-Resources
 
+Presentation link: [http://patilv.com/IAJBS-India/IAJBS-India.html](http://patilv.com/IAJBS-India/IAJBS-India.html)
+Presentation code: [https://github.com/patilv/IAJBS-India](https://github.com/patilv/IAJBS-India)
+
 ## ABCD
 
 **Assets-based Commmunity Development**: Place-based framework pioneered by McKnight and Kretzmann (1993)
