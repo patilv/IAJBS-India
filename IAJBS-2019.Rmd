@@ -1,0 +1,29 @@
+---
+title: "Interactive Data Visualizations"
+subtitle: "Community Assets and Community Issues"
+author: "Vivek H. Patil, Ph.D."
+institute: "Gonzaga University"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+---
+
+## Importance of issues
+
+<iframe src="ImportanceofIssues.html" frameBorder="0" scrolling="yes"></iframe> 
+
+
+---
+class: inverse, center, middle
+
