@@ -53,9 +53,9 @@ library(gridExtra)
 * Interactive Visualizations: Open-Source R
 * Conclusion and R-Resources
 
-Presentation link: [http://patilv.com/IAJBS-India/IAJBS-India.html](http://patilv.com/IAJBS-India/IAJBS-India.html)
+Presentation link: [https://tinyurl.com/zagMAPS](https://tinyurl.com/GonzagaMAPS)
 
-Presentation code: [https://github.com/patilv/IAJBS-India](https://github.com/patilv/IAJBS-India)
+Presentation code: [https://tinyurl.com/zagMAPScode](https://tinyurl.com/zagMAPScode)
 
 ## ABCD
 
